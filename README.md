@@ -1,7 +1,5 @@
 # @sealsystems/setenv
 
-[![CircleCI](https://circleci.com/gh/sealsystems/node-setenv.svg?style=svg)](https://circleci.com/gh/sealsystems/node-setenv)
-[![AppVeyor](https://ci.appveyor.com/api/projects/status/h3vlvdw99f7q83rp?svg=true)](https://ci.appveyor.com/project/Plossys/node-setenv)
 
 Easily setting environment variables without the need to acces process.env
 
