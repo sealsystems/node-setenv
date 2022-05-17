@@ -21,7 +21,7 @@
   },
   "main": "lib/setenv.js",
   "devDependencies": {
-    "@sealsystems/eslint-config-es": "3.7.6",
+    "@sealsystems/eslint-config-es": "3.7.7",
     "@sealsystems/mocha": "4.2.3",
     "getenv": "1.0.0",
     "uuid": "8.3.2"
